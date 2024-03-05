@@ -10,4 +10,4 @@ Final Result (in LBP_syn.qor)
 Area : 5703 
 Clock Cycle : 12 ns 
 Execution Time : 1905204 NS
-Score : 5703*1905204 = 1.08E+10 < 1.2E+12 (Rank A)
+Score : 5703*1905204 = 1.08E+10 < 1.2E+10 (Rank A)
